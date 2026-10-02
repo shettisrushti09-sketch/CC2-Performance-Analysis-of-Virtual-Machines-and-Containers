@@ -1,0 +1,8 @@
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           193M  2.0M  191M   2% /run
+/dev/sda3        20G   16G  2.9G  85% /
+tmpfs           961M     0  961M   0% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+/dev/sda2       512M  6.1M  506M   2% /boot/efi
+tmpfs           193M  104K  192M   1% /run/user/1000
+/dev/sr0        4.5G  4.5G     0 100% /media/srushti/Ubuntu 22.04.5 LTS amd64

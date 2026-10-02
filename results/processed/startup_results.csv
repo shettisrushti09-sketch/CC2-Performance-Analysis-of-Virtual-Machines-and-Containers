@@ -1,0 +1,5 @@
+environment,test_type,run,command,real_time_seconds
+container,startup,1,"docker run --rm -d --name startup-test -p 8000:8000 fastapi-benchmark",7.084
+container,startup,2,"docker run --rm -d --name startup-test -p 8000:8000 fastapi-benchmark",3.164
+container,startup,3,"docker run --rm -d --name startup-test -p 8000:8000 fastapi-benchmark",2.949
+

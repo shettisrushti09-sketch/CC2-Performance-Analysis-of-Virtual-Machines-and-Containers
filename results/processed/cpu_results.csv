@@ -1,0 +1,5 @@
+environment,threads,events_per_second,total_time_seconds,avg_latency_ms,p95_latency_ms
+vm,1,122.98,30.0003,8.11,12.52
+vm,2,218.57,30.0089,9.14,15.27
+vm,4,257.60,30.0000,15.51,37.56
+vm,8,284.29,30.0568,28.07,58.92

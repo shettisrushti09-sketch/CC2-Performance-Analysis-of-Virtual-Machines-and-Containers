@@ -1,0 +1,9 @@
+environment,workload,threads,connections,duration_seconds,throughput,avg_latency_ms,p95_latency_ms,total_requests
+vm,cpu,1,,30.0003,122.98,8.11,12.52,3690
+vm,cpu,2,,30.0089,218.57,9.14,15.27,6560
+vm,cpu,4,,30.0000,257.60,15.51,37.56,7728
+vm,cpu,8,,30.0568,284.29,28.07,58.92,8546
+vm,api,1,10,30.05,112.87,92.69,,3392
+vm,api,2,50,30.02,150.28,331.02,,4512
+vm,api,4,100,30.06,171.42,577.22,,5153
+vm,api,4,200,30.07,147.64,1290.00,2000.00,4439
