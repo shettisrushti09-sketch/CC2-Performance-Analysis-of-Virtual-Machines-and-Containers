@@ -780,6 +780,48 @@ results/figures/
 
 ---
 
+# 📸 Experiment Screenshots
+
+These screenshots provide command-output evidence from the experimental runs.
+
+## 1. Docker Benchmark Image
+
+![Docker Benchmark Image](screenshots/01_docker_image.png)
+
+## 2. Baseline System Information
+
+![Baseline System Information](screenshots/02_baseline_cpu.png)
+
+## 3. CPU Benchmark
+
+![CPU Benchmark](screenshots/03_cpu_benchmark.png)
+
+## 4. Memory Benchmark
+
+![Memory Benchmark](screenshots/04_memory_benchmark.png)
+
+## 5. Disk Benchmark
+
+![Disk Benchmark](screenshots/05_disk_benchmark.png)
+
+## 6. Network Benchmark
+
+![Network Benchmark](screenshots/06_network_benchmark.png)
+
+## 7. FastAPI Benchmark
+
+![FastAPI Benchmark](screenshots/07_fastapi_benchmark.png)
+
+## 8. Startup Test
+
+![Startup Test](screenshots/08_startup_test.png)
+
+## 9. Scalability Test
+
+![Scalability Test](screenshots/09_scalability_test.png)
+
+---
+
 # 🐙 GitHub
 
 Git commands should be executed from the project root:
